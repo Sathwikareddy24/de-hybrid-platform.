@@ -1,5 +1,5 @@
 ﻿# 🌐 Multi-Cloud Hybrid Data Pipeline
-### **AWS (S3) | Azure (Blob) | Google Cloud (GCS) | Snowflake**
+### **AWS (S3) | Azure (Blob) | Google Cloud (GCS) | Snowflake**  
 
 ## 📖 Project Overview
 This project demonstrates a robust **Multi-Cloud Data Engineering** architecture. The goal was to break down data silos by integrating disparate datasets from the three major cloud providers into a single, unified analytical layer in **Snowflake**.
